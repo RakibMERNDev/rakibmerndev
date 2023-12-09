@@ -1,3 +1,5 @@
+![React icon gif](https://media.tenor.com/_sRq7f0tQLEAAAAC/reactjs.gif)
+
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
