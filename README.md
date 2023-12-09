@@ -1,4 +1,4 @@
-![React icon gif](https://github.com/alrakib1/alrakib1/blob/main/images/react-banner-with-pc.gif)
+![React icon_banner](https://github.com/alrakib1/alrakib1/blob/main/images/reactjs_banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
