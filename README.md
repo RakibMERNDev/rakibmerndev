@@ -20,6 +20,3 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alrakib1&show_icons=true&locale=en" alt="alrakib1" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alrakib1&" alt="alrakib1" /></p>
