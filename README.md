@@ -1,6 +1,6 @@
 ![React icon gif](https://github.com/alrakib1/alrakib1/blob/main/images/react-banner-with-pc.gif)
 
-<h1 align="center">Hi 👋, I'm Rakib</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Al Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://twitter.com/strawhat_rakib" target="blank"><img src="https://img.shields.io/twitter/follow/strawhat_rakib?logo=twitter&style=for-the-badge" alt="strawhat_rakib" /></a> </p>
