@@ -21,13 +21,10 @@
 <br/>
 <h1 align="center">Current Stats:</h1>
 
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak" /></a>
- <a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak" /></a><a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
-<div align="center"> 
 
-</div>
 
 <div>
 <h3 align="left">Current overview :</h3>
