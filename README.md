@@ -48,10 +48,9 @@
 
 <div>
 
-## 1) Blood Donation Management website
-<p>Admin: ab@ab.com</p>
-<p>Password: ab@ab.com</p>
-<p>Repository Link:  <a href="https://github.com/alrakib1/Blood-Donation-Client"> Click Here</a></p>
+## 1) Life-Flow-Donor
+<p>It's a blood donation management websiite</p>
+<p>Repository Link:  <a href="https://github.com/alrakib1/Blood-Donation-Client" target="_blank"> Click Here</a></p>
 </div>
 <h4>Some Features:</h4>
 <ul>
