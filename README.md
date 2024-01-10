@@ -64,7 +64,7 @@
 <a href="https://life-flow-donor.vercel.app/" target="_blank">click here</a>
 <div>
 
-## 2) Blog website
+## 2) MetaBlog
 <p>Repository Link:  <a href="https://github.com/alrakib1/Blog-Zone-Client"> Click Here</a></p>
 </div>
 <h4>Some Features:</h4>
