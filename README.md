@@ -21,8 +21,7 @@
 <br/>
 <h1 align="center">Current Stats:</h1>
 
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alrakib1&theme=black-ice&type=png" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alrakib1&theme=black-ice&type=png)](https://git.io/streak-stats)
 <div align="center">  <a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
