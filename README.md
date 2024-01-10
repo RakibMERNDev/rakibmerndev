@@ -6,7 +6,7 @@
 <br/>
 
 <h1 align="left">About Me</h1>
-<p>I am an undergraduate student from Rajshahi Bangladesh. I have started working on web development 5 months ago. In these months, I have learned fundamental of frontend web development and I have tried to strengthen my basic knowlegde on web devlopment. I have also worked on couple of projects. I intent to work on more project and I want to explore more about web devlopment.</p>
+<p>I am an undergraduate student from Rajshahi, Bangladesh. I started working on web development five months ago. During this time, I have learned the fundamentals of frontend web development and have endeavored to strengthen my basic knowledge in this field. I have also worked on a couple of projects. I intend to work on more projects and further explore the intricacies of web development.</p>
 
 <br/>
 <br/>
@@ -21,7 +21,8 @@
 <br/>
 <h1 align="center">Current Stats:</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alrakib1&theme=black-ice&type=png)](https://git.io/streak-stats)
+<div align="center"><a href="http://www.github.com/alrakib1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alrakib1&stroke=3382ed&background=181824&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+</div>
 <div align="center">  <a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
