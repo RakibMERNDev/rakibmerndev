@@ -85,7 +85,7 @@
 </div>
 <h4>Some Features:</h4>
 <ul>
-<li>After registration you will be able to create, update and delte taks from their dashboard</li>
+<li>After registration you will be able to create, update and delete taks from their dashboard</li>
 <li>You will be able to simply drag and drop task to update thier status immediately.</li>
 </ul>
 
