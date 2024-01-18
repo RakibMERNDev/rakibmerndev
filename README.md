@@ -80,16 +80,16 @@
 
 
 
-## 3) Game event Management
-<p>Repository Link:  <a href="https://github.com/alrakib1/Gamers-Heaven"> Click Here</a></p>
+## 3) Taskify - A Todo App
+<p>Repository Link:  <a href="https://taskify-web-app.vercel.app/" tareget="_"> Click Here</a></p>
 </div>
 <h4>Some Features:</h4>
 <ul>
-<li>Registered user will be able to see the event details</li>
-<li>Registered user will be able to see profile and vip option on navbar after log in.</li>
+<li>After registration you will be able to create, update and delte taks from their dashboard</li>
+<li>You will be able to simply drag and drop task to update thier status immediately.</li>
 </ul>
 
 
 
 ### Live Website
-https://gamers-heaven-99179.web.app/
+<a href="https://taskify-web-app.vercel.app/" target="_blank">Click here</a>
