@@ -75,7 +75,7 @@
 </ul>
 
 ### Live Website
-https://blog-zone-web.netlify.app/
+<a href="https://meta-blog-app.vercel.app/" target="_blank">Click here</a>
 <div>
 
 
