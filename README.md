@@ -80,8 +80,8 @@
 
 
 
-## 3) Taskify - A Todo App with drag and drop feature
-<p>Repository Link:  <a href="https://taskify-web-app.vercel.app/" tareget="_"> Click Here</a></p>
+## 3) Taskify 
+<p>Repository Link:  <a href="https://github.com/alrakib1/Taskify-Web-App" tareget="_"> Click Here</a></p>
 </div>
 <h4>Some Features:</h4>
 <ul>
