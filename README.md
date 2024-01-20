@@ -34,7 +34,7 @@
 <h3 align="left">Current overview :</h3>
 
 <p>🌱 I have learned front End Development .</p>
-<p>🏁 Next target : In next 2-3 years I want to become a Senior web Developer .</p>
+<p>🏁 Next target : Slowly and gradually, I want to become a Senior web Developer while learning new skills and working with them .</p>
 <p> 🔭 I’m exploring - MERN Stack</p>
 <!-- <p>🤔 I’m trying - To learn Next js, TypeScript.</p> -->
 <!-- <p>⚡ Fun fact - I have only started working 5 months ago.</p> -->
