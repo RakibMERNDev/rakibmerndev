@@ -20,10 +20,9 @@
 <br/>
 <br/>
 <h1 align="center">Current Stats:</h1>
-
-<div align="center"><a href="http://www.github.com/alrakib1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alrakib1&stroke=3382ed&background=181824&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<div align="center"><a href="http://www.github.com/alrakib1"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=midnight-purple&hide_border=true&type=png" alt="GitHub Streak" /></a>
 </div>
-<div align="center">  <a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center"><a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
   
@@ -46,12 +45,31 @@
 
 # Latest Projects:
 
+
+
 <div>
 
-## 1) Life-Flow-Donor
+## MetaBlog
+<p>Repository Link:  <a href="https://github.com/alrakib1/Blog-Zone-Client"> Click Here</a></p>
+<h4>Some Features:</h4>
+<ul>
+<li>Registered user can create, update his blog.</li>
+<li>User can add blog to wishlist</li>
+<li>User can comment, edit and also delete the comment on comment section of blog.</li>
+</ul>
+
+### Live Website
+<a href="https://meta-blog-app.vercel.app/" target="_blank">Click here</a>
+</div>
+
+
+
+
+<div>
+
+## Life-Flow-Donor
 <p>It's a blood donation management websiite</p>
 <p>Repository Link:  <a href="https://github.com/alrakib1/Blood-Donation-Client" target="_blank"> Click Here</a></p>
-</div>
 <h4>Some Features:</h4>
 <ul>
 <li>There are three rules in this website: donor, admin, volunteer</li>
@@ -62,27 +80,14 @@
 
 ### Live Website
 <a href="https://life-flow-donor.vercel.app/" target="_blank">click here</a>
-<div>
-
-## 2) MetaBlog
-<p>Repository Link:  <a href="https://github.com/alrakib1/Blog-Zone-Client"> Click Here</a></p>
 </div>
-<h4>Some Features:</h4>
-<ul>
-<li>Registered user can create, update his blog.</li>
-<li>User can add blog to wishlist</li>
-<li>User can comment, edit and also delete the comment on comment section of blog.</li>
-</ul>
 
-### Live Website
-<a href="https://meta-blog-app.vercel.app/" target="_blank">Click here</a>
+
+
 <div>
-
-
-
-## 3) Taskify 
+  
+## Taskify 
 <p>Repository Link:  <a href="https://github.com/alrakib1/Taskify-Web-App" tareget="_"> Click Here</a></p>
-</div>
 <h4>Some Features:</h4>
 <ul>
 <li>After registration you will be able to create, update and delete taks from your dashboard</li>
@@ -93,3 +98,4 @@
 
 ### Live Website
 <a href="https://taskify-web-app.vercel.app/" target="_blank">Click here</a>
+</div>
