@@ -22,7 +22,7 @@
 <h1 align="center" style="color:#9745F5">Current Stats:</h1>
 <div align="center"><a href="http://www.github.com/alrakib1"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=midnight-purple&hide_border=true&type=png" alt="GitHub Streak" /></a>
 </div>
-<div align="center"><a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=9745F5&text_color=9745F5&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center"><a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=9745F5&text_color=ffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
   
