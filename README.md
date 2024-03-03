@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-📩 Email: <a href="mailto:abdullahalrakib30@gmail.com"> abdullahalrakib30@gmail.com
-</a>
-
 <br/>
 
 <h1 align="left"><font color="#9745F5">About Me :</font></h1>
@@ -30,7 +26,19 @@
 </div>
 
 <br/>
-<br/>
+
+<div>
+
+<h1 align="left" style="margin-Bottom:30px"> <font color="#9745F5">Contact me :</font></h1>
+<p>
+📩 Email: <a href="mailto:abdullahalrakib30@gmail.com"> abdullahalrakib30@gmail.com
+</a>
+</p>
+<p>
+🔎 LikedIn : <a href="https://www.linkedin.com/in/alrakib1/"> Abdullah Al Rakib
+</a>
+</p>
+</div>
 
 <h1>Latest Projects :</h1>
 
