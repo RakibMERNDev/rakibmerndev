@@ -2,15 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<br/>
+
+📩 Email: <a href="mailto:abdullahalrakib30@gmail.com"> abdullahalrakib30@gmail.com
+</a>
+
 <br/>
 
-<h1 align="left" style="color:#9745F5">About Me</h1>
+<h1 align="left"><font color="#9745F5">About Me :</font></h1>
 <p>I am an undergraduate student from Rajshahi, Bangladesh. I started working on web development five months ago. During this time, I have learned the fundamentals of frontend web development and have endeavored to strengthen my basic knowledge in this field. I have also worked on a couple of projects. I intend to work on more projects and further explore the intricacies of web development.</p>
 
 <br/>
 <br/>
-<h1 align="center" style="color:#9745F5">Technology that I have worked with</h1>
+
+<h1 align="center"><font color="#9745F5">Technology that I have worked with</font></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,37 +23,21 @@
 </p>
 <br/>
 <br/>
-<h1 align="center" style="color:#9745F5; margin-Bottom:30px">Current Stats:</h1>
-<div align="center"><a href="http://www.github.com/alrakib1"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=midnight-purple&hide_border=true&type=png"  alt="GitHub Streak" width="80%" /></a>
+<h1 align="center" style="margin-Bottom:30px"> <font color="#9745F5">Current Stats:</font></h1>
+<div align="center"><a href="http://www.github.com/alrakib1"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=midnight-purple&hide_border=true&type=png"  alt="GitHub Streak" width="70%" /></a>
 </div>
 <div align="center"><a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=9745F5&text_color=ffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
-  
-  
- 
-
-<div>
-<h3 align="left" style="color:#9745F5; font-size:25px">Current overview :</h3>
-
-<p>🌱 I have learned front End Development .</p>
-<p>🏁 Next target : Slowly and gradually, I want to become a Senior web Developer while learning new skills and working with them .</p>
-<p> 🔭 I’m exploring - MERN Stack</p>
-<!-- <p>🤔 I’m trying - To learn Next js, TypeScript.</p> -->
-<!-- <p>⚡ Fun fact - I have only started working 5 months ago.</p> -->
-<p>📫 my Email abdullahalrakib30@gmail.com</p>
-
-</div>
 <br/>
 <br/>
 
-<h1 style="color:#9745F5; margin-bottom:50px">Latest Projects :</h1>
-
-
+<h1>Latest Projects :</h1>
 
 <div style="margin-bottom: 40px;">
 
 ## MetaBlog
+
 <p>Repository Link:  <a href="https://github.com/alrakib1/Blog-Zone-Client"> Click Here</a></p>
 <h4>Some Features:</h4>
 <ul>
@@ -59,15 +47,15 @@
 </ul>
 
 ### Live Website
+
 <a href="https://meta-blog-app.vercel.app/" target="_blank">Click here</a>
+
 </div>
-
-
-
 
 <div style="margin-bottom: 40px;">
 
 ## Life-Flow-Donor
+
 <p>It's a blood donation management websiite</p>
 <p>Repository Link:  <a href="https://github.com/alrakib1/Blood-Donation-Client" target="_blank"> Click Here</a></p>
 <h4>Some Features:</h4>
@@ -79,10 +67,10 @@
 </ul>
 
 ### Live Website
+
 <a href="https://life-flow-donor.vercel.app/" target="_blank">click here</a>
+
 </div>
-
-
 
 <div style="margin-bottom: 40px;">
   
@@ -94,8 +82,8 @@
 <li>You will be able to simply drag and drop task to update your status immediately.</li>
 </ul>
 
-
-
 ### Live Website
+
 <a href="https://taskify-web-app.vercel.app/" target="_blank">Click here</a>
+
 </div>
