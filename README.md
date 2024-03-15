@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="left"><font color="#9745F5">About Me :</font></h1>
-<p>I am an undergraduate student from Rajshahi, Bangladesh. I started working on web development five months ago. During this time, I have learned the fundamentals of frontend web development and have endeavored to strengthen my basic knowledge in this field. I have also worked on a couple of projects. I intend to work on more projects and further explore the intricacies of web development.</p>
+<p>I am an undergraduate student from Rajshahi, Bangladesh. I started working on web development from July 2023. During this time, I have learned the fundamentals of frontend web development and have endeavored to strengthen my basic knowledge in this field. I have also worked on a couple of projects. I intend to work on more projects and further explore the intricacies of web development.</p>
 
 <br/>
 <br/>
