@@ -1,4 +1,4 @@
-<img src="https://github.com/alrakib1/alrakib1/blob/main/images/reactjs.gif" alt="React icon_banner" width="100%">
+<img src="https://github.com/abdullahalrakib727/abdullahalrakib727/blob/main/images/reactjs.gif" alt="React icon_banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -20,9 +20,9 @@
 <br/>
 <br/>
 <h1 align="center" style="margin-Bottom:30px"> <font color="#9745F5">Current Stats:</font></h1>
-<div align="center"><a href="http://www.github.com/alrakib1"><img src="https://github-readme-streak-stats.herokuapp.com?user=alrakib1&theme=midnight-purple&hide_border=true&type=png"  alt="GitHub Streak" width="70%" /></a>
+<div align="center"><a href="http://www.github.com/abdullahalrakib727"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalrakib727&theme=midnight-purple&hide_border=true&type=png"  alt="GitHub Streak" width="70%" /></a>
 </div>
-<div align="center"><a href="https://github.com/alrakib1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrakib1&langs_count=10&title_color=9745F5&text_color=ffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center"><a href="https://github.com/abdullahalrakib727" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalrakib727&langs_count=10&title_color=9745F5&text_color=ffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 <br/>
@@ -35,7 +35,7 @@
 </a>
 </p>
 <p>
-🔎 LikedIn : <a href="https://www.linkedin.com/in/alrakib1/"> Abdullah Al Rakib
+🔎 LikedIn : <a href="https://www.linkedin.com/in/abdullahalrakib727/"> Abdullah Al Rakib
 </a>
 </p>
 </div>
@@ -46,7 +46,7 @@
 
 ## MetaBlog
 
-<p>Repository Link:  <a href="https://github.com/alrakib1/Blog-Zone-Client"> Click Here</a></p>
+<p>Repository Link:  <a href="https://github.com/abdullahalrakib727/Blog-Zone-Client"> Click Here</a></p>
 <h4>Some Features:</h4>
 <ul>
 <li>Registered user can create, update his blog.</li>
@@ -65,7 +65,7 @@
 ## Life-Flow-Donor
 
 <p>It's a blood donation management websiite</p>
-<p>Repository Link:  <a href="https://github.com/alrakib1/Blood-Donation-Client" target="_blank"> Click Here</a></p>
+<p>Repository Link:  <a href="https://github.com/abdullahalrakib727/Blood-Donation-Client" target="_blank"> Click Here</a></p>
 <h4>Some Features:</h4>
 <ul>
 <li>There are three rules in this website: donor, admin, volunteer</li>
@@ -83,7 +83,7 @@
 <div style="margin-bottom: 40px;">
   
 ## Taskify 
-<p>Repository Link:  <a href="https://github.com/alrakib1/Taskify-Web-App" tareget="_"> Click Here</a></p>
+<p>Repository Link:  <a href="https://github.com/abdullahalrakib727/Taskify-Web-App" tareget="_"> Click Here</a></p>
 <h4>Some Features:</h4>
 <ul>
 <li>After registration you will be able to create, update and delete taks from your dashboard</li>
