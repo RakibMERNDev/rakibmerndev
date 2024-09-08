@@ -64,7 +64,7 @@
 
 ## Life-Flow-Donor
 
-<p>It's a blood donation management websiite</p>
+<p>It's a blood donation management webapp</p>
 <p>Repository Link:  <a href="https://github.com/abdullahalrakib727/Blood-Donation-Client" target="_blank"> Click Here</a></p>
 <h4>Some Features:</h4>
 <ul>
